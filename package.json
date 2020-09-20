@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/codywalter/Note-Taker/issues"
   },
-  "homepage": "https://github.com/codywalter/Note-Taker#readme"
+  "homepage": "https://github.com/codywalter/Note-Taker#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1"
+  }
 }
